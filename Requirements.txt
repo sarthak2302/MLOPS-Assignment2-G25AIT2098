@@ -4,6 +4,6 @@ torch
 scikit-learn
 wandb
 huggingface_hub
+accelerate
 numpy
 pandas
-accelerate
