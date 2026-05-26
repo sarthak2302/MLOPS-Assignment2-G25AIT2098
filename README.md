@@ -18,7 +18,7 @@ DistilBERT for Goodreads Genre Classification
 |--------|-------|
 | Accuracy | 0.58 |
 | Eval Loss | 3.27 |
-
+ 
 ## Links
 
 - Kaggle Notebook: https://www.kaggle.com/code/sarthakg25ait2098/g25ait2098
