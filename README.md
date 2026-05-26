@@ -21,6 +21,7 @@ DistilBERT for Goodreads Genre Classification
 
 ## Links
 
-- Kaggle Notebook: YOUR_KAGGLE_LINK
+- Kaggle Notebook: https://www.kaggle.com/code/sarthakg25ait2098/g25ait2098
 - Hugging Face Model: https://huggingface.co/arcsaber2302/distilbert-goodreads-genres
-- W&B Dashboard: YOUR_WANDB_LINK
+- W&B Dashboard: https://wandb.ai/g25ait2098-iitj/huggingface?nw=nwuserg25ait2098
+- 
